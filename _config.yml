@@ -1,10 +1,10 @@
 encoding: utf-8
 
 # SEO相关信息
-title: TMaize Blog
-description: TMaize的个人博客
-keywords: TMaize,Blog,Java,Html,JavaScript
-author: TMaize
+title: Wzy Blog
+description: wzy的个人博客
+keywords: wzy,Blog,Python,Html,JavaScript
+author: Wzy
 footerText: 'Copyright © 2016 皖ICP备16016174号'
 
 # 这些不要动
@@ -17,7 +17,7 @@ exclude: ['CNAME', 'README.md', 'LICENSE', '_site', 'dist', 'Gemfile', 'Gemfile.
 
 # 域名配置
 # baseurl配置,如果网站部署在根目录下的其他目录中，请设置为 /目录名
-domainUrl: 'https://blog.tmaize.net'
+domainUrl: 'https://wzy461143268.github.io'
 baseurl: ''
 
 # 吐个槽地址，会在chat页面中重定向到该地址
