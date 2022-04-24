@@ -17,6 +17,4 @@ title: 关于我
 
 - QQ&nbsp;&nbsp;&nbsp;&nbsp;: 1772314831
 
-- Email&nbsp;: [tmaize@qq.com](http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=YBQNAQkaBSAREU4DDw0)
-
-- GitHub: [https://github.com/tmaize](https://github.com/tmaize)
+- GitHub: [https://github.com/wzy461143268](https://github.com/wzy461143268)
